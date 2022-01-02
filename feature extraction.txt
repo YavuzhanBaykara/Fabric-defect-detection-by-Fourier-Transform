@@ -1,0 +1,107 @@
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161643.jpg
+[3.3615622e+08, 3.3615622e+08, 0, 0, 3.3615622e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161712.jpg
+[3.3559123e+08, 3.3559123e+08, 0, 0, 3.3559123e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161732.jpg
+[3.3258909e+08, 3.3258909e+08, 0, 0, 3.3258909e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161750.jpg
+[3.3399322e+08, 3.3399322e+08, 0, 0, 3.3399322e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161810.jpg
+[3.3582096e+08, 3.3582096e+08, 0, 0, 3.3582096e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161823.jpg
+[3.3504774e+08, 3.3504774e+08, 0, 0, 3.3504774e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161838.jpg
+[3.33304e+08, 826671.5, 91, 5.9998637e+08, 8086436, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161848.jpg
+[3.3294298e+08, 3.3294298e+08, 0, 0, 3.3294298e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161901.jpg
+[3.3930886e+08, 5550765.5, 8, 4.6328301e+08, 1567639, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161918.jpg
+[3.3585203e+08, 3.3585203e+08, 0, 0, 3.3585203e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161933.jpg
+[3.3415526e+08, 3.3415526e+08, 0, 0, 3.3415526e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161948.jpg
+[3.3432198e+08, 3.3432198e+08, 0, 0, 3.3432198e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162009.jpg
+[3.3799027e+08, 3.3799027e+08, 0, 0, 3.3799027e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162035.jpg
+[3.3603686e+08, 3.3603686e+08, 0, 0, 3.3603686e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162051.jpg
+[3.3515824e+08, 2895164, 23, 5.4452026e+08, 251833.84, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162110.jpg
+[3.4018618e+08, 3.4018618e+08, 0, 0, 3.4018618e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162124.jpg
+[3.3653677e+08, 6979383.5, 8, 4.9612109e+08, 1216696.8, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162137.jpg
+[3.3795526e+08, 3.3795526e+08, 0, 0, 3.3795526e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162650.jpg
+[3.3539674e+08, 3.3539674e+08, 0, 0, 3.3539674e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162706.jpg
+[3.3632851e+08, 4280608.5, 8, 4.514072e+08, 5054911, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162730.jpg
+[3.3541005e+08, 3.3541005e+08, 0, 0, 3.3541005e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162743.jpg
+[3.370679e+08, 3.370679e+08, 0, 0, 3.370679e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162755.jpg
+[3.3453354e+08, 3.3453354e+08, 0, 0, 3.3453354e+08, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162809.jpg
+[3.3620198e+08, 3549167.8, 12, 4.7423702e+08, 1246467.8, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162824.jpg
+[3.361007e+08, 11094857, 5, 4.8986845e+08, 538441.94, 0, 0]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162840.jpg
+[3.3523437e+08, 3.3523437e+08, 0, 0, 3.3523437e+08, 0, 0]
+-------------------------------------------------------------------
+26
+0[1.7462635e+08, 4465105.5, 2, 1.9199373e+08, 3403973, 2, 1.8457338e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161643.jpg
+1[1.7425328e+08, 21532722, 1, 1.7425328e+08, 4254597.5, 1, 1.7425328e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161712.jpg
+2[1.720353e+08, 16959606, 1, 1.720353e+08, 1321217.4, 5, 1.8269234e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161732.jpg
+3[1.7321069e+08, 33979444, 1, 1.7321069e+08, 6529843.5, 1, 1.7321069e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161750.jpg
+4[1.746897e+08, 22937902, 1, 1.746897e+08, 10741891, 1, 1.746897e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161810.jpg
+5[1.7373878e+08, 37285660, 1, 1.7373878e+08, 15154707, 1, 1.7373878e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161823.jpg
+6[1.727712e+08, 572465.19, 66, 2.6162643e+08, 1817786.5, 1, 1.727712e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161838.jpg
+7[1.7220774e+08, 12361070, 1, 1.7220774e+08, 391930.03, 66, 2.13024e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161848.jpg
+8[1.7679795e+08, 771500.94, 7, 2.0031386e+08, 5676400.5, 1, 1.7679795e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161901.jpg
+9[1.7437808e+08, 19844718, 1, 1.7437808e+08, 6024820.5, 1, 1.7437808e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161918.jpg
+10[1.7260798e+08, 214203.27, 10, 1.8999533e+08, 5619109.5, 1, 1.7260798e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161933.jpg
+11[1.7282669e+08, 17568838, 1, 1.7282669e+08, 961626.38, 64, 2.4556133e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_161948.jpg
+12[1.7567422e+08, 19377016, 1, 1.7567422e+08, 6371075.5, 1, 1.7567422e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162009.jpg
+13[1.7479901e+08, 2428409, 2, 1.858587e+08, 7049778.5, 1, 1.7479901e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162035.jpg
+14[1.7474101e+08, 527150.5, 17, 2.1648619e+08, 8114513, 1, 1.7474101e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162051.jpg
+15[1.7722472e+08, 17047572, 1, 1.7722472e+08, 8150972, 1, 1.7722472e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162110.jpg
+16[1.7517595e+08, 1921616.8, 5, 2.0922227e+08, 3484601.3, 1, 1.7517595e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162124.jpg
+17[1.7632498e+08, 21353514, 1, 1.7632498e+08, 7065857, 1, 1.7632498e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162137.jpg
+18[1.7402275e+08, 39833092, 1, 1.7402275e+08, 5899494.5, 1, 1.7402275e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162650.jpg
+19[1.7350334e+08, 8455349, 1, 1.7350334e+08, 771917.31, 43, 1.9911498e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162730.jpg
+20[1.7511149e+08, 4963526.5, 2, 1.9013632e+08, 200691.58, 4, 1.7734867e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162743.jpg
+21[1.7328309e+08, 365888.09, 30, 2.0342912e+08, 2800007, 1, 1.7328309e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162755.jpg
+22[1.7361283e+08, 536264.5, 9, 1.9190328e+08, 1550672.5, 6, 1.9428126e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162809.jpg
+23[1.7410712e+08, 8577565, 4, 2.5011038e+08, 7520485, 1, 1.7410712e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162824.jpg
+24[1.7456611e+08, 25085068, 1, 1.7456611e+08, 8058128, 1, 1.7456611e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/IMG_20211013_162840.jpg
+25[1.7479814e+08, 1347024.5, 7, 1.9888546e+08, 15848992, 1, 1.7479814e+08]
+C:/Users/Yavzan/Desktop/x-x/Veri ³retim/Resimler/Yag.jpg
+
